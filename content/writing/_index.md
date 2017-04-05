@@ -11,6 +11,9 @@ of theoretical background and practical examples.
 
 If you're looking for my more formal writing on computational science,
 head on over to the [relevant section of the research
-page](/research/#writing). Or if that's not your cup of tea, do feel
+page][academic-writing]. Or if that's not your cup of tea, do feel
 free to sample [some entries from my personal
-journal](http://emphaticallystatic.org/featured/)!
+journal][personal-journal-featured].
+
+[academic-writing]: /research/#writing
+[personal-journal-featured]: http://emphaticallystatic.org/featured/
